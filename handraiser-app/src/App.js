@@ -1,7 +1,6 @@
 import React from "react";
 import Button from "@material-ui/core/Button";
 import GoogleLogin from "react-google-login";
-import { GoogleLogout } from "react-google-login";
 
 export default function App() {
   const responseGoogle = response => {
